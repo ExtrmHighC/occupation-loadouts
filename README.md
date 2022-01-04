@@ -3,7 +3,7 @@ A basic standalone FiveM C# resource that gives the player a loadout based on th
 
 In-Game Commands / Usage!
 
-/loadouts -- Displays all loadout aptions!
+/loadouts -- Displays all loadout options!
 
 /leolo -- Gives a police loadout!
 
