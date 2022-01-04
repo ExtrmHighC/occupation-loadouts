@@ -13,7 +13,7 @@ In-Game Commands / Usage!
 
 /clearlo -- Clears all weapons from weapon wheel!
 
-Note: The commands in which give the player weapons cannot be spammed for adding insane ammounts of ammo, it resets your ammo count each time the command is executed.
+Note: The commands in which give the player weapons cannot be spammed for adding insane amounts of ammo, it resets your ammo count each time the command is executed.
 
 Please edit this resource based on your servers needs! This isn't really meant to just be copy / pasted into your resources folder. This is a very basic C# resource I decided to make using my current C# understanding (which is not the best). 
 
