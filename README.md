@@ -9,7 +9,11 @@ In-Game Commands / Usage!
 
 /crimelo -- Gives a criminal loadout!
 
+/swatlo -- Gives a swat loadout!
+
 /clearlo -- Clears all weapons from weapon wheel!
+
+Note: The commands in which gives the player weapons cannot be spammed for ammo, tt resets your ammo count each time the command is executed!
 
 Please edit this resource based on your servers needs! This isn't really meant to just be copy / pasted into your resources folder. This is a very basic C# resource I decided to make using my current C# understanding (which is not the best). 
 
